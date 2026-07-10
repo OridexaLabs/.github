@@ -250,17 +250,23 @@ Every repository belongs to a clearly defined category. This structure improves 
 
 Artificial intelligence has become one of the fastest-growing sectors in modern software development.
 
-Repositories in this category document platforms that provide AI-powered capabilities for developers, businesses, creators, and researchers.
+Repositories in this category document AI-powered software platforms that help businesses, creators, developers, marketers, and technical professionals improve productivity and automate complex workflows.
+
+Initial repositories focus on AI platforms that provide official affiliate programs alongside comprehensive documentation and active product ecosystems.
 
 Examples include:
 
-- Claude
-- ChatGPT
-- Gemini
-- Perplexity
-- Poe
-- Character.AI
-- Pi AI
+- Chatbase
+- ElevenLabs
+- Murf AI
+- PlayHT
+- Jasper
+- Writesonic
+- Copy.ai
+- Grammarly
+- Speechify
+- Scalenut
+- Synthesia
 
 Documentation typically covers:
 
