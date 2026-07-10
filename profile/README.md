@@ -138,26 +138,18 @@ Each repository focuses exclusively on a single software platform.
 
 Examples include:
 
-- Cursor
-- Claude
 - Chatbase
 - ElevenLabs
-- Pinecone
-- LangChain
-- OpenRouter
-- n8n
-- Zapier
-- Make
-- Voiceflow
-- Botpress
-- Tavily
+- Murf AI
+- PlayHT
+- Synthesia
+- Jasper
+- Writesonic
+- Copy.ai
+- Grammarly
+- Scalenut
+- Speechify
 - Apify
-- AssemblyAI
-- Leonardo AI
-- Ideogram
-- Runway
-- Pika
-- Replit
 
 This structure improves maintainability while making repositories easier to discover through GitHub search and external search engines.
 
