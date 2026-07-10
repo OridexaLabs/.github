@@ -302,7 +302,7 @@ Repositories within this category document platforms that enable organizations t
 
 Current roadmap:
 
-- Chatbase *(Coming Soon)*
+- [Chatbase](https://github.com/OridexaLabs/chatbase)
 
 ---
 
