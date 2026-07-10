@@ -356,7 +356,7 @@ Repositories within this category document developer-focused platforms that prov
 
 Current roadmap:
 
-- Lasso *(Coming Soon)*
+- **[Lasso](https://github.com/OridexLabs/Lasso)**
 - Apify *(Coming Soon)*
 
 ---
