@@ -250,35 +250,29 @@ Every repository belongs to a clearly defined category. This structure improves 
 
 Artificial intelligence has become one of the fastest-growing sectors in modern software development.
 
-Repositories in this category document AI-powered software platforms that help businesses, creators, developers, marketers, and technical professionals improve productivity and automate complex workflows.
+Repositories in this category cover multiple areas of modern AI, including:
 
-Initial repositories focus on AI platforms that provide official affiliate programs alongside comprehensive documentation and active product ecosystems.
+- AI Chatbots
+- AI Writing
+- AI Voice
+- AI Video
+- AI Productivity
+- AI SEO
+- AI Developer Tools
 
-Examples include:
-
-- Chatbase
-- ElevenLabs
-- Murf AI
-- PlayHT
-- Jasper
-- Writesonic
-- Copy.ai
-- Grammarly
-- Speechify
-- Scalenut
-- Synthesia
+Initial repository development prioritizes software platforms that provide official affiliate programs, comprehensive technical documentation, active developer ecosystems, and long-term educational value.
 
 Documentation typically covers:
 
 - Product overview
-- Model capabilities
-- Available plans
+- Key features
+- Benefits
+- Pricing
 - API availability
-- Context window
-- Supported modalities
-- Enterprise offerings
+- Integrations
 - Security
 - Common use cases
+- Frequently asked questions
 - Official resources
 
 ---
