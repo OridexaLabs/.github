@@ -554,11 +554,19 @@ A typical repository includes:
 Repository
 │
 ├── README.md
-├── LICENSE
-├── SECURITY.md
-├── CONTRIBUTING.md
-├── Discussions
-└── Resources
+│
+└── Discussions
+     │
+     ├── What is [AI Tool Name]?
+     ├── Cursor Pricing
+     ├── Cursor API
+     ├── Cursor Tutorial
+     ├── Cursor Alternatives
+     ├── Cursor vs Windsurf
+     ├── Cursor vs Claude Code
+     ├── Cursor Review
+     ├── Cursor Enterprise
+     └── Other Technical Questions
 ```
 
 The `README.md` serves as the primary documentation hub and generally includes sections such as:
